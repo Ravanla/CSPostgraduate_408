@@ -5,7 +5,7 @@
 
 //顺序栈的实现
 #include <stdio.h>
-
+#include <a.out.h>
 /**定义模块**/
 
 # define  MaxSize 10
