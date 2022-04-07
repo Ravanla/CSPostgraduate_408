@@ -5,3 +5,6 @@ DataStructure/PPT/**
 /MindMap/*
 /PPT/*.pdf
 /PPT/*.md
+/../.vscode
+.vscode
+../.vscode/*.json
