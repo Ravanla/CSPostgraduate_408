@@ -46,6 +46,16 @@ bool InitList(SeqList &L) {
     return true;
 }
 
+bool InitList01(SeqList &L){
+    L.data = (int *) malloc(InitSize * sizeof(int));
+    if(L.data == NULL){
+        return false;
+    }
+    L.length = 0;
+    L.MaxSize = InitSize;
+    return true;
+}
+
 //判空
 bool Empty(SeqList L) {
     return (L.length == 0);
