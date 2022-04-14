@@ -6,7 +6,8 @@
 //顺序表——静态分配的实现方式
 
 /**定义模块**/
-// test git
+// test git 
+// one day passed
 #include <stdio.h>
 #include <a.out.h>
 #define MaxSize 10
