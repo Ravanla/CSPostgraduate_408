@@ -8,6 +8,8 @@
 /**定义模块**/
 // test git 
 // one day passed
+// improve vim setting
+
 #include <stdio.h>
 #include <a.out.h>
 #define MaxSize 10
