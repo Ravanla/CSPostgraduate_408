@@ -2,6 +2,7 @@
 // R是尾插法的意思rear
 #include <stdio.h>
 #include <stdlib.h>
+#include <bits/stdc++.h>
 
 typedef struct DLNode
 {
@@ -10,7 +11,7 @@ typedef struct DLNode
     struct DLNode *prior;
 } DLNode;
 
-// 采用尾插法建立双链表
+// 采用尾插法建立双gg表
 void creatDlistR01(DLNode *&L, int a[], int n)
 {
     DLNode *s, *r;
@@ -118,7 +119,11 @@ int largestPalindrome(int n)
         }
     }
 }
-
+//jj//jjtest
+//jj//jjtt
+//jj//jjtt
+//jj//jjtjj
+//jj//jj
 int main()
 {
     return 0;
